@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with updated Macro for Ulysses for macOS - custom themes and tags, the #1 macro. Includes custom themes and tags for a smoother experience.
 
 
 
